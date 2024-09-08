@@ -417,7 +417,7 @@ strong {
 .price-tag {
   background: var(--white-color);
   border-radius: 100px;
-  color: var(--secondary-color);
+  color: #5c0909;
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-semibold);
   display: inline-block;
